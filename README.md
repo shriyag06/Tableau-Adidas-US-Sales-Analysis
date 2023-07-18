@@ -10,21 +10,5 @@
 ### Effective Sales Methods: Identify the sales method that proves most effective in generating sales and evaluate the performance of various sales channels for comparison.
 ### Average Price per Unit and Total Units Sold: Calculate and visualize the average price per unit, and total units sold.
 
-# Dataset Explaination
-## Dataset Explanation
-### The Adidas sales database contains the following columns:
-
-### Retailer: Represents the business or individual that sells Adidas products directly to consumers.
-### Retailer ID: A unique identifier assigned to each retailer in the dataset.
-### Invoice Date: The date when a particular invoice or sales transaction took place.
-### Region: Refers to a specific geographical area or district where the sales activity or retail operations occur.
-### State: Represents a specific administrative division or territory within a country.
-### City: Refers to an urban area or municipality where the sales activity or retail operations are conducted.
-### Gender Type: Categorization of individuals based on their gender, such as male or female.
-### Product Category: Represents the classification or grouping of Adidas products.
-### Price per Unit: The cost or price associated with a single unit of a product.
-### Units Sold: The quantity or number of units of a particular product sold during a specific sales transaction.
-### Total Sales: The overall revenue generated from the sales transactions.
-### Operating Profit: The profit earned by the retailer from its normal business operations.
-### Operating Margin: A financial metric that indicates the profitability and efficiency of a retailer's operations.
-### Sales Method: The approach or channel used by the retailer to sell its products or services.
+# Dataset 
+## Link to dataset: https://www.kaggle.com/datasets/vishwas199728/adidas-sales-data
